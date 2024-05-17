@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Ayush Raj 👋</h2>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+stacck+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+stack+developer" /></a>
 </p>
 
 <p align="center">
@@ -72,9 +72,9 @@ const Ayush = {
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
  
- 
+<!--  
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
-![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg) -->
 
 
   | <a href="https://github.com/AyushRaj1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushRaj1111&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ayush's github stats" /></a> | <a href="https://github.com/AyushRaj1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj1111&layout=compact&theme=buefy&hide_border=true" /></a> |
