@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-AyushRaj%40iitbhu.ac.in-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  
 <a  href="https://www.instagram.com/jackedCoder/">   <img src="https://img.shields.io/badge/@jackedcoder_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://https://www.linkedin.com/in/ayush-raj-09068b228/"><img src="https://img.shields.io/badge/AyushRaj-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-<a  href="https://ayushraj1111.github.io/JackedCoder/"><img src="https://img.shields.io/badge/https://ayushraj1111.github.io/JackedCoder/-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a  href="https://ayushraj1111.github.io/JackedCoder/"><img src="https://img.shields.io/badge/ayushraj1111.github.io/JackedCoder/-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 </div>
 <p>
 Self-learned and self-motivated Full Stack Developer with medium experience working on multiple projects. Passionate, hardworking, and likes to learn new technology. Promotes best practices in web design and offers diverse customer project portfolios.
